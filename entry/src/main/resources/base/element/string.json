@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BT Bridge"
+    },
+    {
+      "name": "perm_bluetooth_reason",
+      "value": "Required to connect to your phone and sync contacts and messages over Bluetooth."
+    }
+  ]
+}
